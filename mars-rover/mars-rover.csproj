@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>mars_rover</RootNamespace>
+    <AssemblyName>mars_rover</AssemblyName>
   </PropertyGroup>
 
 </Project>
